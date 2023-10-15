@@ -27,40 +27,6 @@
       <change afterPath="$PROJECT_DIR$/calculatorMVC/src/main/java/calculatorMVC/model/sumOperation/SumOperation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/calculatorMVC/src/main/java/calculatorMVC/view/ConsoleView.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/calculatorMVC/src/main/java/calculatorMVC/view/IView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/MainCalculatorMVC_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/calculatorMVC_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/dataLayer/DataController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/dataLayer/IData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/model/CalculationLayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/model/divisionOperation/DivisionOperarion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/model/multiplyOperation/MultiplyOeration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/model/subOperation/SubOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/model/sumOperation/SumOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/MainCalculatorMVC_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/calculatorMVC_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/dataLayer/DataController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/dataLayer/IData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/model/CalculationLayer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/model/divisionOperation/DivisionOperarion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/model/multiplyOperation/MultiplyOeration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/model/subOperation/SubOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/model/sumOperation/SumOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/viewLayer/ConsoleView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/viewLayer/IView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/viewLayer/InputOutputLayer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/viewLayer/InputSlice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/out/production/calculatorMVC_1/calculatorMVC_1/viewLayer/OutputSlice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/viewLayer/ConsoleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/viewLayer/IView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/viewLayer/InputOutputLayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/viewLayer/InputSlice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculatorMVC_1/viewLayer/OutputSlice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calculatorMVC/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/calculatorMVC/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calculatorMVC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculatorMVC/pom.xml" afterDir="false" />
     </list>
@@ -91,7 +57,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/vlad/SeminarsForGit/Git_homework1",
+    "last_opened_file_path": "/home/vlad/SeminarsForGit",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
