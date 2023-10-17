@@ -8,7 +8,6 @@ import calculatorMVC.view.ConsoleView;
 public class Main {
     public static void main(String[] args) {
         // Первый вариант запуска калькулятора
-        System.out.println("Первый вариант запуска калькулятора:");
         IView view = new ConsoleView();
         String resultOperation = view.runCalculator();
         System.out.println("Результат: " + resultOperation);
