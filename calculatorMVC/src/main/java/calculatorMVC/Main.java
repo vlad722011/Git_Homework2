@@ -14,7 +14,6 @@ public class Main {
 
 
         // Второй вариант запуска калькулятора
-        System.out.println("Второй вариант запуска калькулятора:");
         GetDataFromConsole getDataFromConsole = new GetDataFromConsole();
         String input = getDataFromConsole.getDataFromConsole();
         System.out.print("Результат: " + input);
